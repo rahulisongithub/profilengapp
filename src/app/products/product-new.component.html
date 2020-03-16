@@ -1,0 +1,58 @@
+
+<h1>New Product</h1>
+<hr>
+<div class="col-md-6">
+  <form #form="ngForm" (ngSubmit)="saveProduct(form.value)">
+    <div class="form-group">
+      <label for="productId">ProductID</label>
+      <input (ngModel)="form.productId" name="productId" required id="productId" type="number" class="form-control" placeholder="Product ID of Product.." />
+    </div>
+
+    <div class="form-group">
+      <label for="productName">ProductName</label>
+      <input (ngModel)="form.productName" name="productName" required productName="productName" type="text" class="form-control" placeholder="Name of Product.." />
+    </div>
+
+    <div class="form-group">
+      <label for="productCode">ProductCode</label>
+      <input (ngModel)="form.productCode" name="productCode" required productCode="productCode" type="text" class="form-control" placeholder="Code of Product.." />
+    </div>
+
+    <div class="form-group">
+      <label for="releaseDate">ReleaseDate</label>
+      <input (ngModel)="form.releaseDate" name="releaseDate" required releaseDate="releaseDate" type="text" class="form-control" placeholder="Date of Product.." />
+    </div>
+
+    <div class="form-group">
+      <label for="price">Price</label>
+      <input (ngModel)="form.price" name="price" required productCode="price" type="number" class="form-control" placeholder="Price of Product.." />
+    </div>
+
+    <div class="form-group">
+      <label for="description">Description</label>
+      <input (ngModel)="form.description" name="description" required description="description" type="text" class="form-control" placeholder="Description of Product.." />
+    </div>
+
+    <div class="form-group">
+      <label for="starRating">StarRating</label>
+      <input (ngModel)="form.starRating" name="starRating" required starRating="starRating" type="number" class="form-control" placeholder="Star Rating of Product.." />
+    </div>
+
+    <div class="form-group">
+      <label for="imageUrl">ImageUrl</label>
+      <input (ngModel)="form.imageUrl" name="imageUrl" required imageUrl="imageUrl" type="text" class="form-control" placeholder="Image URL of Product.." />
+    </div>
+
+    <button type="submit" [disabled]="form.invalid" class="btn btn-primary">Save</button>
+
+  </form>
+</div>
+
+
+<div class='card-footer'>
+  <button class='btn btn-outline-secondary'
+          (click)='onBack()'
+          style='width:80px'>
+    <i class='fa fa-chevron-left'></i> Back
+  </button>
+</div>

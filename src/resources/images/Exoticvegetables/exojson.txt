@@ -1,0 +1,133 @@
+({productID:301,title:'Sweetcorngrains',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/avocado.jpeg',
+category:'Exoticvegetables',
+description:'
+Firm but velvety lemon lime colored flesh and a mild, meaty flavor. With less fat per gm than the Hass, the avocado gives you more pleasure and less guilt per mouthful. Good for slicing or mashing up for guacamole. It makes a beautiful and delicious garnish.',
+price:30.00,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:302,title:'Iceberg Lettuc',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/eberglettuc.jpeg',
+category:'Exoticvegetables',
+description:'Iceberg is the king of crunch in the lettuce family, with a little sweet snap in every bite. Crisp and cool, with the oomph to stand up to the biggest burger without wilting.',
+price:38.00,
+quantity:1.0,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:303,title:'Green Zucchini',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/greenzucchini.jpeg',
+category:'Exoticvegetables',
+description:'This flavorful squash is available at its peak all year round. It is a mild and extremely versatile vegetable. Slice, chop, stuff, or grate it. Zucchini adds a fresh garden flavor to breads, soups, and pastas, and it's great by itself as a simply sautéed side dish. .',
+price:120,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:304,title:'Yellow Zucchini',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/yellowzucchini.jpeg',
+category:'Exoticvegetables',
+description:'This beautiful squash adds sunny color and bright flavor to your menu. Toss it into a sautéed vegetable medley to add color and taste. The skin is as nutritious as it is attractive. Try yellow zucchini sliced and raw, dipped in creamy garlic dressing or hummus. Prepare as you would a green zucchini.',
+price:140,
+quantity: 1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:305,title:'Selery',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/selery.jpeg',
+category:'Exoticvegetables',
+description:'A staple in any cook's crisper drawer. Celery is a versatile ingredient with a deep clean taste. It puts the crunch in chicken salad and it's the crispiest dip accompaniment. A sturdy vehicle for peanut butter. When sautéed, celery provides a gentle, herby backbone for soups and stews.',
+price:140,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:306,title:'Basil',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/basil.jpeg',
+category:'Exoticvegetables',
+description:'Sweet, fragrant, and aromatic. The taste of our sweet basil is like a bouquet with hints of mint, clove, and licorice. It's widely used in the cuisines of India. The Greeks referred to it as the "royal herb." Try ours in soups, stews, and sauces. Or chop it up raw and add to egg dishes, salads, and dips.',
+price:140,
+quantity: 1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:307,title:'Redcabbage',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/redcabbage.jpeg',
+category:'Exoticvegetables',
+description:'The purple-robed prince among cabbages. It has an intense musky flavor and sweet snappiness. Red cabbage can be stewed, braised, or even curried. It's crispy when you scoop the raw leaves into dip. Crunchy when you stir-fry small wedges. A silky herbal accent on the tongue when you add chopped leaves to stew or soup.',
+price:100,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:308,title:'Selery',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/selery.jpeg',
+category:'Exoticvegetables',
+description:'A staple in any cook's crisper drawer. Celery is a versatile ingredient with a deep clean taste. It puts the crunch in chicken salad and it's the crispiest dip accompaniment. A sturdy vehicle for peanut butter. When sautéed, celery provides a gentle, herby backbone for soups and stews. ',
+price:55,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:309,title:'Red capsicum',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/redcapsicum.jpeg',
+category:'Exoticvegetables',
+description:'If green bells taste fresh and crisp as spring, reds are mellow and fruity as autumn. They are actually green peppers that have been left to ripen. Roasted red bells have a rich, velvety flavor. We think they taste similar to ripe stewed tomatoes. More flavorful than young green bells, "sweet reds" are easier to digest. Use small bell peppers for chopping and dicing. Large bell peppers work best for stuffing, roasting and slicing.  ',
+price:19,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:310,title:'Yellow capsicum',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/yellowcapsicum.jpeg',
+category:'Exoticvegetables',
+description:' Sweet and juicy, with a pleasant crunch and a gorgeous banana color. These show-offs taste even milder than red or green peppers. We love them sliced in strips and eaten raw as crudités, especially when paired with their rainbow-hued relatives. Use small bell peppers for chopping and dicing. Large bell peppers work best for stuffing, roasting and slicing.',
+price:19,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:311,title:'Mushroom',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/mushroom.jpeg',
+category:'Exoticvegetables',
+description:'There's a lot to be said for the humble button mushroom. Sure, there are lots of alternatives with exotic looks and funny names, but white buttons are a kitchen staple. They add texture and mild earthy flavor, but almost no calories. They're inexpensive, always available, easy to prepare, and keep well in the refrigerator. Mix them with the exotics or let them stand on their own. They'll never disappoint. ',
+price:210,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:312,title:'Baby corn',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/babycorn.jpeg',
+category:'Exoticvegetables',
+description:'Sun-kissed yellow, crunchy, crispy and waiting to be cooked, baby corn is one of the season's most prized possessions. It goes well with many vegetables, can be cooked easily and can also eaten raw. Sometimes known as 'candle corn', it's harvested while the stalks are very small and immature. It tastes a bit like regular corn but is lighter and much softer.',
+price:220,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:313,title:'Parsley',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/parsley.jpeg',
+category:'Exoticvegetables',
+description:'It is exoticvegetables.',
+price:25,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+({productID:314,title:'Broccoli',
+picture:'http://localhost:4200/resources/images/Exoticvegetables/broccoli.jpeg',
+category:'Exoticvegetables',
+description:'Broccoli is closely related to cabbage - and it's another one of those 'greens' we're always being told to eat up. The part of a broccoli plant we normally eat is the lovely flowerhead - the flowers are usually green but sometimes purple. Steamed broccoli is tasty in a salad or stir-fry .',
+price:128,
+quantity:1,
+paymentTerm:'50% cash on order',
+delivery:'10 Days after Order Confirmation'});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
