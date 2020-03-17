@@ -14,7 +14,8 @@ export class ProductService {
 
 
     //private productUrl = 'https://azurecosapi.azurewebsites.net/api/products/';
-      private productUrl = 'http://corpserviceapi.southeastasia.azurecontainer.io/api/crops/'
+    //private productUrl = 'http://corpserviceapi.southeastasia.azurecontainer.io/api/crops/';
+      private productUrl = 'https://corpserviceapi.azurewebsites.net/api/crops/';
     //private productUrl = 'https://rsaazurewebapi.azurewebsites.net/api/products';
 
     constructor(private http:HttpClient){
